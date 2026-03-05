@@ -1,3 +1,7 @@
+# DEPRECATED
+
+There is now an [official action](https://github.com/anthropics/claude-code-action) so this repo is no longer needed or maintained. It probably doesn't work and shouldn't be used.
+
 # Claude Code Action
 
 A GitHub Action for running [Claude Code](https://github.com/anthropics/claude-code) on your repository.
